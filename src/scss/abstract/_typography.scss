@@ -11,10 +11,6 @@ h1 {
   line-height: 4.4rem;
   color: c.$color-white;
 
-  span {
-    color: c.$color-primary;
-  }
-
   @media only screen and (max-width: v.$bp-large) {
     font-size: 2.8rem;
     font-weight: 700;
@@ -42,6 +38,10 @@ p {
   @media only screen and (max-width: v.$bp-medium) {
     text-align: center;
   }
+}
+
+.heading-highlight {
+  color: c.$color-primary;
 }
 
 .stat {
