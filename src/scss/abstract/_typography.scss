@@ -1,0 +1,55 @@
+@use 'colors' as c;
+@use 'variables' as v;
+
+// TYPOGRAPHY
+$type-primary: "Inter", sans-serif;
+$type-display: "Lexend Deca", sans-serif;
+
+h1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 4.4rem;
+  color: c.$color-white;
+
+  span {
+    color: c.$color-primary;
+  }
+
+  @media only screen and (max-width: v.$bp-large) {
+    font-size: 2.8rem;
+    font-weight: 700;
+    line-height: 3.2rem;
+  }
+
+  @media only screen and (max-width: v.$bp-medium) {
+    text-align: center;
+  }
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.9rem;
+  color: c.$color-white;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+  color: c.$color-white;
+  opacity: 0.6;
+  @media only screen and (max-width: v.$bp-medium) {
+    text-align: center;
+  }
+}
+
+.stat {
+  &__headline {
+    font-family: $type-display;
+    font-size: 1.2rem;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+  }
+}

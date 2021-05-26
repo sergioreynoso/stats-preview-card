@@ -1,0 +1,32 @@
+@use 'abstract/colors' as c;
+@use 'abstract/typography' as t;
+@use 'abstract/variables' as v;
+@use 'components/card';
+
+html {
+  // This defines what 1rem is
+  font-size: 62.5%; //1 rem = 10px; 10px/16px = 62.5%
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: t.$type-primary;
+  background-color: c.$color-dark;
+  // background-color: red;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2.4rem;
+}
