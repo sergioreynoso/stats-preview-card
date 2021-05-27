@@ -70,7 +70,7 @@ I also used both CSS Grids and Flexbox together. I used grids to break up the te
 ```css
 .card {
   display: grid;
-  grid-template-columns: 1.2fr 1fr;
+  grid-template-columns: 51.5% 1fr;
 }
 ```
 
