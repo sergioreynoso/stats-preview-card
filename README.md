@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://stats-preview-card-sergioreynoso.netlify.app)
+- Live Site URL: [Live site](https://stats-preview-card-sergioreynoso.netlify.app)
 
 ## My process
 
