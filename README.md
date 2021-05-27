@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://stats-preview-card-sergioreynoso.netlify.app/)
+- Live Site URL: [](https://stats-preview-card-sergioreynoso.netlify.app)
 
 ## My process
 
@@ -65,7 +65,7 @@ For my HTML markup, I named my classes according to the [BEM methodology](https:
 </div>
 ```
 
-I also used both CSS Grids and SASS together. I used grids to break up the text area of the card from the image area because I wanted to utilized the fractional properties of each column. In the design the left column was slightly wider than the right column, in the example below, I used fractional units to get as close as possible to to design.
+I also used both CSS Grids and Flexbox together. I used grids to break up the text area of the card from the image area because I wanted to utilized the fractional properties of each column. In the design the left column was slightly wider than the right column, in the example below, I used fractional units to get as close as possible to to design. Flexbox was used to center the card on the screen.
 
 ```css
 .card {
