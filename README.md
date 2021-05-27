@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/sass-and-parcel-bundler-5cYQlQU92)
 - Live Site URL: [Live site](https://stats-preview-card-sergioreynoso.netlify.app)
 
 ## My process
