@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://stats-preview-card-sergioreynoso.netlify.app/]
+- Live Site URL: [](https://stats-preview-card-sergioreynoso.netlify.app/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-For my HTML markup, I named my classes according to the BEM methodology [https://en.bem.info/methodology/]
+For my HTML markup, I named my classes according to the [BEM methodology](https://en.bem.info/methodology/)
 
 ```html
 <div class="card">
@@ -103,10 +103,10 @@ I would like to continue exploring writing markup as modular as possible using t
 
 ## Author
 
-- Website - [www.sergiorswork.com]
-- Frontend Mentor - [@sergioreynoso](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [https://www.linkedin.com/in/sreynoso/]
+- Website - [](www.sergiorswork.com)
+- Frontend Mentor - [@sergioreynoso](https://www.frontendmentor.io/profile/sergioreynoso)
+- LinkedIn - [@sreynoso](https://www.linkedin.com/in/sreynoso/)
 
 ## Acknowledgments
 
-I would like to thank Jonas Schmedtmann [https://codingheroes.io] for all his great Udemy courses [https://www.udemy.com/user/jonasschmedtmann/], as well as Kevin Powell [https://www.kevinpowell.co] for all the great css content.
+I would like to thank [Jonas Schmedtmann](https://codingheroes.io) for all his great [Udemy courses](https://www.udemy.com/user/jonasschmedtmann/), as well as [Kevin Powell](https://www.kevinpowell.co) for all the great css content.
