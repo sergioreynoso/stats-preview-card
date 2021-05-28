@@ -109,4 +109,4 @@ I would like to continue exploring writing markup as modular as possible using t
 
 ## Acknowledgments
 
-I would like to thank [Jonas Schmedtmann](https://codingheroes.io) for all his great [Udemy courses](https://www.udemy.com/user/jonasschmedtmann/), as well as [Kevin Powell](https://www.kevinpowell.co) for all the great css content.
+I would like to thank [Jonas Schmedtmann](https://codingheroes.io) for all his great [Demy courses](https://www.udemy.com/user/jonasschmedtmann/), as well as [Kevin Powell](https://www.kevinpowell.co) for all the great css content.
