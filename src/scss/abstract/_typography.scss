@@ -6,15 +6,15 @@ $type-primary: "Inter", sans-serif;
 $type-display: "Lexend Deca", sans-serif;
 
 h1 {
-  font-size: 3.6rem;
+  font-size: 2.25rem;
   font-weight: 700;
-  line-height: 4.4rem;
+  line-height: 2.75rem;
   color: c.$color-white;
 
   @media only screen and (max-width: v.$bp-large) {
-    font-size: 2.8rem;
+    font-size: 1.75rem;
     font-weight: 700;
-    line-height: 3.2rem;
+    line-height: 2rem;
   }
 
   @media only screen and (max-width: v.$bp-medium) {
@@ -25,7 +25,7 @@ h1 {
 p {
   // font-size: 1.5rem;
   font-weight: 400;
-  line-height: 2.5rem;
+  line-height: 1.5625rem;
   color: c.$color-white;
   opacity: 0.6;
   @media only screen and (max-width: v.$bp-medium) {
@@ -38,20 +38,20 @@ p {
 }
 
 .stat__value {
-  font-size: 2.4rem;
+  font-size: 1.5rem;
   font-weight: 700;
-  line-height: 2.9rem;
+  line-height: 1.8125rem;
   color: c.$color-white;
   display: block;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.125rem;
 }
 
 .stat__name {
   font-family: $type-display;
-  font-size: 1.2rem;
+  font-size: 0.75rem;
   font-weight: 400;
-  line-height: 2.5rem;
-  letter-spacing: 0.1rem;
+  line-height: 1.5625rem;
+  letter-spacing: 0.0625rem;
   text-transform: uppercase;
   opacity: 0.6;
   display: block;

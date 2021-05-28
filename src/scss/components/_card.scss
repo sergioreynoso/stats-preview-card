@@ -4,30 +4,30 @@
 
 .card {
   background-color: c.$color-secondary;
-  max-width: 111rem;
-  height: 44.6rem;
-  border-radius: 0.8rem;
+  max-width: 69.375rem;
+  height: 27.875rem;
+  border-radius: 0.5rem;
   overflow: hidden;
 
   display: grid;
   grid-template-columns: 51.5% 1fr;
 
   @media only screen and (max-width: v.$bp-medium) {
-    max-width: 32.7rem;
-    height: 78rem;
+    max-width: 20.4rem;
+    height: 48.75rem;
     grid-template-columns: auto;
-    grid-template-rows: 24rem 1fr;
+    grid-template-rows: 15rem 1fr;
   }
 
   &__content {
-    padding: 7.1rem 9.5rem 5.9rem 7.1rem;
+    padding: 4.4375rem 5.9375rem 3.6875rem 4.4375rem;
     display: grid;
     grid-template-rows: min-content min-content 1fr;
-    grid-row-gap: 2.5rem;
+    grid-row-gap: 1.5625rem;
 
     @media only screen and (max-width: v.$bp-medium) {
-      padding: 4rem 3.15rem 3.15rem;
-      grid-row-gap: 1.6rem;
+      padding: 2.5rem 1.5rem 1.5rem;
+      grid-row-gap: 1rem;
     }
   }
 
@@ -48,12 +48,13 @@
     color: c.$color-white;
     display: grid;
     grid-template-columns: repeat(3, min-content);
-    grid-column-gap: 6.3rem;
+    grid-column-gap: 3.9375rem;
 
     @media only screen and (max-width: v.$bp-medium) {
+      align-self: center;
       grid-template-columns: auto;
       grid-template-rows: repeat(3, min-content);
-      row-gap: 2.4rem;
+      row-gap: 0.9375rem;
       justify-items: center;
     }
   }
