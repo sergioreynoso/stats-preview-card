@@ -1,7 +1,7 @@
 @use 'colors' as c;
 
 // Image effects
-@mixin img-effect($color: c.$color-primary) {
+@mixin img-primary-overlay($color: c.$color-primary) {
   &::before {
     content: "";
     width: 100%;
